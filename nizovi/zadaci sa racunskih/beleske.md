@@ -17,7 +17,7 @@ N--;
 * pomeramo sve elemente ulevo
 * poslednji element “ostaje višak”, zato se samo smanji `N`
 
-✔primer:
+primer:
 
 ```
 A = {1, 2, 5, 4, 3}
