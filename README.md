@@ -21,6 +21,17 @@ Sadrži:
 * beleške,
 * neke dodatne gluposti
 
+
+---
+
+**NOVE STVARI**:
+- direktorijum funkcije sadrzi vecinu zadataka za laboratorijsku vezbu
+- direktorijum kolokvijumi sadrzi resenja za kolokvijume rasporedjenih po godinama:
+    - 2024. 1.kolokvijum [x]
+
+
+---
+---
 ## Napomena
  
- Repo vrv sadzi neke greske, msm 100%.
+ Repo vrv sadrzi neke greske, msm 100%.
