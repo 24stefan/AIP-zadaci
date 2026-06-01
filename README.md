@@ -10,7 +10,7 @@ U svakoj oblasti se uglavnom nalaze dva dodatna direktorijuma:
 
 Zadaci sa laboratorijskih vežbi.
 
-Najčešće se unutra nalazi samo zadatak koji mi se pao za pripremu, jer sam previše lenj da  uradim sve. 😅
+Najčešće se unutra nalazi samo zadatak koji mi se pao za pripremu, jer sam previše lenj da  uradim sve. 
 
 ## `racunske_vezbe`
 
