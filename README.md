@@ -31,7 +31,6 @@ Sadrži:
 
 
 ---
----
 ## Napomena
  
  Repo vrv sadrzi neke greske, msm 100%.
