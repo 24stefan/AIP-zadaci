@@ -27,7 +27,7 @@ Sadrži:
 **NOVE STVARI**:
 - direktorijum funkcije sadrzi vecinu zadataka za laboratorijsku vezbu
 - direktorijum kolokvijumi sadrzi resenja za kolokvijume rasporedjenih po godinama:
-    - 2024. 1.kolokvijum [x]
+    - 2024.: 1.kolokvijum [x]
 
 
 ---
