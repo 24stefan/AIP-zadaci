@@ -43,7 +43,7 @@ int main() {
             }
             printf("\n");
         }
-    } else if(suma_B > suma_C){
+    } else if(suma_C > suma_B){
          printf("Suma ispod sporedne dijagonale matrice C je veca od sume ispod Sporedne dijagonale B i iznosi: %d \n", suma_C);
          for( i = 0; i < n; i++) {
             for( j = 0; j < n; j++) {
